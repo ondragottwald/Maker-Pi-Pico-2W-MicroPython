@@ -48,4 +48,4 @@ CZ: Tato tabulka ukazuje přesné mapování hudebních not na vizuální výstu
    **CZ:** Stiskněte **Run** v Thonny a užijte si show!
 
 ---
-*Created by Ondra (1978), Týniště nad Orlicí*
+*Created by Ondra Gottwald | Týniště nad Orlicí*
