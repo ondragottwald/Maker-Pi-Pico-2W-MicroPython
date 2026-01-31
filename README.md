@@ -11,3 +11,8 @@ EN: Experiments and projects using the Maker Pi Pico baseboard with Raspberry Pi
 ## ⚠️ Critical Notes / Důležité poznámky
 CZ: Piny **GP20, GP21, GP22** jsou spojeny s tlačítky a LED. Mají negativní logiku (v klidu svítí/1, při stisku zhasnou/0).  
 EN: Pins **GP20, GP21, GP22** are connected to buttons and LEDs. They use negative logic (idle: ON/1, pressed: OFF/0).
+
+---
+
+## 📚 Study Materials / Studijní materiály
+[👉 MicroPython Essentials / Základy MicroPythonu](LEARNING.md)
