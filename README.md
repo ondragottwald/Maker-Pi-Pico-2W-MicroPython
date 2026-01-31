@@ -15,4 +15,5 @@ EN: Pins **GP20, GP21, GP22** are connected to buttons and LEDs. They use negati
 ---
 
 ## 📚 Study Materials / Studijní materiály
-[👉 MicroPython Essentials / Základy MicroPythonu](LEARNING.md)
+[👉 MicroPython Essentials / Základy MicroPythonu](LEARNING.md)  
+[🛠️ Hardware & Software Setup / Nastavení HW a SW](HARDWARE.md)
