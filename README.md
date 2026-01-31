@@ -17,3 +17,12 @@ EN: Pins **GP20, GP21, GP22** are connected to buttons and LEDs. They use negati
 ## 📚 Study Materials / Studijní materiály
 [👉 MicroPython Essentials / Základy MicroPythonu](LEARNING.md)  
 [🛠️ Hardware & Software Setup / Nastavení HW a SW](HARDWARE.md)
+
+---
+
+## 🚀 My Projects / Moje projekty
+[🎮 Mario Spectrum Player](projects/mario_spectrum/README.md)  
+EN: A sophisticated audiovisual show that maps music frequencies to a color spectrum.  
+CZ: Pokročilá audiovizuální show, která mapuje hudební frekvence na barevné spektrum.
+
+---
