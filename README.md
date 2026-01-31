@@ -26,3 +26,4 @@ EN: A sophisticated audiovisual show that maps music frequencies to a color spec
 CZ: Pokročilá audiovizuální show, která mapuje hudební frekvence na barevné spektrum.
 
 ---
+*Created by Ondra Gottwald | Týniště nad Orlicí*
